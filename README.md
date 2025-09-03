@@ -1,7 +1,10 @@
 # Sales insights using Excel
 
-## Objective:
+## Introduction:
 Analyze historical sales performance data of a global retail store and present key business insights
+
+## Project Type
+Backend
 
 ## Steps involved:
 
@@ -18,3 +21,7 @@ Analyze historical sales performance data of a global retail store and present k
 * Category wise,the trend of sales is highly fluctuating,but "Furniture"category is constantly underperforming
 
 * The top products mostly comprise of items related to printing and binding
+
+
+## Technology Stack
+Microsoft Excel
